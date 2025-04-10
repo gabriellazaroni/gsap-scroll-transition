@@ -1,4 +1,4 @@
-# Projeto React Custom Modal
+# Projeto React Scroll Animation
 
 ![Project preview](./src/assets/preview.png)
 
